@@ -20,7 +20,7 @@ void loop()
 #include <string>
 #include "gtest/gtest.h"
 
-#include <boost/bind.hpp>
+#include <boost/bind/bind.hpp>
 
 // Use FRIEND_TEST... its not as nasty, thats what friends are for
 // // OMG this is so nasty...
